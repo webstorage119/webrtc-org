@@ -1,4 +1,8 @@
-[![Build Status](https://ci.cloudware.io/api/badges/webrtc/webrtc-org/status.svg)](https://ci.cloudware.io/webrtc/webrtc-org)
+# WebRTC.org website (*** This repository is deprecated ***)
+
+The documentation to contribute to native code is available at https://webrtc.googlesource.com/src/+/refs/heads/master/docs/native-code/index.md
+
+Info about the WebRTC project and Web API's is available at https://webrtc.org
 
 
 # The [webrtc.org](https://webrtc.org) website #
